@@ -25,6 +25,18 @@
       <version>4.11</version>
       <scope>test</scope>
     </dependency>
+    
+    <dependency>
+    <groupId>net.lecousin.reactive-data-relational</groupId>
+    <artifactId>mysql</artifactId>
+    <version>0.10.2</version>
+</dependency>
+<dependency>
+    <groupId>org.teiid.connectors</groupId>
+    <artifactId>google-api</artifactId>
+    <version>16.0.0</version>
+</dependency>
+
   </dependencies>
 
   <build>
